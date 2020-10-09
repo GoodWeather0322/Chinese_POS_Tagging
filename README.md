@@ -24,5 +24,11 @@
 
 ## Demo website
 
+goodweather.ml/
+
 
 ## Examples
+
+<p align="center">
+<img src="/README/example_1.png" height="400">
+</p>
