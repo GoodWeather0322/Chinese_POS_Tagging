@@ -24,7 +24,7 @@
 
 ## Demo website
 
-[goodweather.ml/](goodweather.ml/)
+[http://goodweather.ml/](http://goodweather.ml/)
 
 
 ## Examples
