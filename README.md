@@ -9,6 +9,8 @@
 
 - Use [BERT chinese tokenizer](https://github.com/google-research/bert) for chinese tokenization 
 
+- Combine CrossEntropyLoss and CRFLoss with fixed weight to do multitask training for all models (CE : 1.0, CTC : 1e-2)
+
 ### Data Preprocess
 - Use MONPA and CKIP pos tagging toolkit for pre tagging
 - Training Dataset (News articles & PTT articles) 
@@ -30,5 +32,5 @@
 ## Examples
 
 <p align="center">
-<img src="/README/example_1.png" height="400">
+<img src="/README/example_1.png" height="500">
 </p>
