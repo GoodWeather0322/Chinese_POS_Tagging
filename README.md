@@ -32,5 +32,5 @@
 ## Examples
 
 <p align="center">
-<img src="/README/example_1.png" height="600">
+<img src="/README/example.png" height="600">
 </p>
