@@ -6,9 +6,14 @@ A PyTorch implementation of Chinese Part-of-Speech tagging with with [Huggingfac
 
 ## Model Descriptions
 
-Model is based on Pretrained [Albert Model](https://github.com/google-research/albert) and CRF layer
+Model is based on Pretrained [Chinese Albert Model](https://github.com/brightmart/albert_zh) and CRF layer
 
 Use [BERT chinese tokenizer](https://github.com/google-research/bert) for chinese tokenization 
+
+## Data Preprocess
+- Use MONPA and CKIP pos tagging toolkit for pre tagging
+- Training Dataset (News articles & PTT articles) 
+    - CNA News
 
 ## Training Curve
 
@@ -18,7 +23,7 @@ Use [BERT chinese tokenizer](https://github.com/google-research/bert) for chines
 
 
 
-## Data Preprocess
-- Use MONPA and CKIP pos tagging toolkit for pre tagging
-- Training Dataset (News articles & PTT articles) 
-    - CNA News
+## Demo website
+
+
+## Examples
