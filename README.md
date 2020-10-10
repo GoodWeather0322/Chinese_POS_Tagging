@@ -26,7 +26,7 @@
 
 ## Demo website
 
-[http://goodweather.ml/](http://goodweather.ml/)
+[http://goodweather.ddns.net](http://goodweather.ddns.net:13599/)
 
 
 ## Examples
